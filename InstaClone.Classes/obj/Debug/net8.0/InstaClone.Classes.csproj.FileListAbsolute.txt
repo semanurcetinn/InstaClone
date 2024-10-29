@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\interface1\InstaClone.Classes\bin\Debug\net8.0\InstaClone.Classes.deps.json
+C:\Users\User\source\repos\interface1\InstaClone.Classes\bin\Debug\net8.0\InstaClone.Classes.dll
+C:\Users\User\source\repos\interface1\InstaClone.Classes\bin\Debug\net8.0\InstaClone.Classes.pdb
+C:\Users\User\source\repos\interface1\InstaClone.Classes\obj\Debug\net8.0\InstaClone.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\interface1\InstaClone.Classes\obj\Debug\net8.0\InstaClone.Classes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\interface1\InstaClone.Classes\obj\Debug\net8.0\InstaClone.Classes.AssemblyInfo.cs
+C:\Users\User\source\repos\interface1\InstaClone.Classes\obj\Debug\net8.0\InstaClone.Classes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\interface1\InstaClone.Classes\obj\Debug\net8.0\InstaClone.Classes.dll
+C:\Users\User\source\repos\interface1\InstaClone.Classes\obj\Debug\net8.0\refint\InstaClone.Classes.dll
+C:\Users\User\source\repos\interface1\InstaClone.Classes\obj\Debug\net8.0\InstaClone.Classes.pdb
+C:\Users\User\source\repos\interface1\InstaClone.Classes\obj\Debug\net8.0\ref\InstaClone.Classes.dll

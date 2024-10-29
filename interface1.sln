@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "interface1", "interface1\interface1.csproj", "{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstaClone.Classes", "InstaClone.Classes\InstaClone.Classes.csproj", "{142C51F5-0C62-43C7-AC9A-EA270E4B87C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{142C51F5-0C62-43C7-AC9A-EA270E4B87C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{142C51F5-0C62-43C7-AC9A-EA270E4B87C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{142C51F5-0C62-43C7-AC9A-EA270E4B87C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{142C51F5-0C62-43C7-AC9A-EA270E4B87C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22075AD3-878D-4CD8-83BB-0952DBEC22FA}
+	EndGlobalSection
+EndGlobal
