@@ -9,3 +9,4 @@ C:\Users\User\source\repos\interface1\InstaClone.Classes\obj\Debug\net8.0\InstaC
 C:\Users\User\source\repos\interface1\InstaClone.Classes\obj\Debug\net8.0\refint\InstaClone.Classes.dll
 C:\Users\User\source\repos\interface1\InstaClone.Classes\obj\Debug\net8.0\InstaClone.Classes.pdb
 C:\Users\User\source\repos\interface1\InstaClone.Classes\obj\Debug\net8.0\ref\InstaClone.Classes.dll
+C:\Users\User\source\repos\interface1\InstaClone.Classes\obj\Debug\net8.0\InstaClone.Classes.sourcelink.json

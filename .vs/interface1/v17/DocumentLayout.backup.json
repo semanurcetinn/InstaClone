@@ -3,48 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\interface1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\interface1\\InstaClone.Classes\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InstaClone.Classes\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{142C51F5-0C62-43C7-AC9A-EA270E4B87C6}|InstaClone.Classes\\InstaClone.Classes.csproj|c:\\users\\user\\source\\repos\\interface1\\instaclone.classes\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142C51F5-0C62-43C7-AC9A-EA270E4B87C6}|InstaClone.Classes\\InstaClone.Classes.csproj|solutionrelative:instaclone.classes\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}|interface1\\interface1.csproj|c:\\users\\user\\source\\repos\\interface1\\interface1\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}|interface1\\interface1.csproj|solutionrelative:interface1\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{142C51F5-0C62-43C7-AC9A-EA270E4B87C6}|InstaClone.Classes\\InstaClone.Classes.csproj|c:\\users\\user\\source\\repos\\interface1\\instaclone.classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142C51F5-0C62-43C7-AC9A-EA270E4B87C6}|InstaClone.Classes\\InstaClone.Classes.csproj|solutionrelative:instaclone.classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}|interface1\\interface1.csproj|C:\\Users\\User\\source\\repos\\interface1\\interface1\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}|interface1\\interface1.csproj|solutionrelative:interface1\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{142C51F5-0C62-43C7-AC9A-EA270E4B87C6}|InstaClone.Classes\\InstaClone.Classes.csproj|c:\\users\\user\\source\\repos\\interface1\\instaclone.classes\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142C51F5-0C62-43C7-AC9A-EA270E4B87C6}|InstaClone.Classes\\InstaClone.Classes.csproj|solutionrelative:instaclone.classes\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}|interface1\\interface1.csproj|C:\\Users\\User\\source\\repos\\interface1\\interface1\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}|interface1\\interface1.csproj|solutionrelative:interface1\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{142C51F5-0C62-43C7-AC9A-EA270E4B87C6}|InstaClone.Classes\\InstaClone.Classes.csproj|c:\\users\\user\\source\\repos\\interface1\\instaclone.classes\\sharing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142C51F5-0C62-43C7-AC9A-EA270E4B87C6}|InstaClone.Classes\\InstaClone.Classes.csproj|solutionrelative:instaclone.classes\\sharing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}|interface1\\interface1.csproj|c:\\users\\user\\source\\repos\\interface1\\interface1\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}|interface1\\interface1.csproj|solutionrelative:interface1\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{142C51F5-0C62-43C7-AC9A-EA270E4B87C6}|InstaClone.Classes\\InstaClone.Classes.csproj|c:\\users\\user\\source\\repos\\interface1\\instaclone.classes\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142C51F5-0C62-43C7-AC9A-EA270E4B87C6}|InstaClone.Classes\\InstaClone.Classes.csproj|solutionrelative:instaclone.classes\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}|interface1\\interface1.csproj|C:\\Users\\User\\source\\repos\\interface1\\interface1\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}|interface1\\interface1.csproj|solutionrelative:interface1\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}|interface1\\interface1.csproj|c:\\users\\user\\source\\repos\\interface1\\interface1\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}|interface1\\interface1.csproj|solutionrelative:interface1\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}|interface1\\interface1.csproj|c:\\users\\user\\source\\repos\\interface1\\interface1\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}|interface1\\interface1.csproj|solutionrelative:interface1\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}|interface1\\interface1.csproj|C:\\Users\\User\\source\\repos\\interface1\\interface1\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}|interface1\\interface1.csproj|solutionrelative:interface1\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}|interface1\\interface1.csproj|C:\\Users\\User\\source\\repos\\interface1\\interface1\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D8ACB453-F662-48A7-BD5E-47DF501DA4BD}|interface1\\interface1.csproj|solutionrelative:interface1\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\interface1\\InstaClone.Classes\\Post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InstaClone.Classes\\Post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{142C51F5-0C62-43C7-AC9A-EA270E4B87C6}|InstaClone.Classes\\InstaClone.Classes.csproj|c:\\users\\user\\source\\repos\\interface1\\instaclone.classes\\hashtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142C51F5-0C62-43C7-AC9A-EA270E4B87C6}|InstaClone.Classes\\InstaClone.Classes.csproj|solutionrelative:instaclone.classes\\hashtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,134 +38,81 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
+              "Title": "Hashtag.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\interface1\\InstaClone.Classes\\Hashtag.cs",
+              "RelativeDocumentMoniker": "InstaClone.Classes\\Hashtag.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\interface1\\InstaClone.Classes\\Hashtag.cs",
+              "RelativeToolTip": "InstaClone.Classes\\Hashtag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:57:56.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Story.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\interface1\\InstaClone.Classes\\Story.cs",
+              "RelativeDocumentMoniker": "InstaClone.Classes\\Story.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\interface1\\InstaClone.Classes\\Story.cs",
+              "RelativeToolTip": "InstaClone.Classes\\Story.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:42:46.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\interface1\\InstaClone.Classes\\Post.cs",
               "RelativeDocumentMoniker": "InstaClone.Classes\\Post.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\interface1\\InstaClone.Classes\\Post.cs",
               "RelativeToolTip": "InstaClone.Classes\\Post.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T18:42:02.056Z"
+              "WhenOpened": "2024-10-28T18:42:02.056Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Sharing.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\interface1\\InstaClone.Classes\\Sharing.cs",
+              "RelativeDocumentMoniker": "InstaClone.Classes\\Sharing.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\interface1\\InstaClone.Classes\\Sharing.cs",
+              "RelativeToolTip": "InstaClone.Classes\\Sharing.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:24:57.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\interface1\\InstaClone.Classes\\Comment.cs",
+              "RelativeDocumentMoniker": "InstaClone.Classes\\Comment.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\interface1\\InstaClone.Classes\\Comment.cs",
+              "RelativeToolTip": "InstaClone.Classes\\Comment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:22:26.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\interface1\\InstaClone.Classes\\User.cs",
               "RelativeDocumentMoniker": "InstaClone.Classes\\User.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\interface1\\InstaClone.Classes\\User.cs",
               "RelativeToolTip": "InstaClone.Classes\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T16:33:00.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainPage.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\interface1\\interface1\\MainPage.cs",
-              "RelativeDocumentMoniker": "interface1\\MainPage.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\interface1\\interface1\\MainPage.cs",
-              "RelativeToolTip": "interface1\\MainPage.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T13:48:12.657Z",
+              "WhenOpened": "2024-10-28T16:33:00.685Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SearchForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\interface1\\interface1\\SearchForm.cs",
-              "RelativeDocumentMoniker": "interface1\\SearchForm.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\interface1\\interface1\\SearchForm.cs [Design]",
-              "RelativeToolTip": "interface1\\SearchForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T10:23:35.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProfileForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\interface1\\interface1\\ProfileForm.cs",
-              "RelativeDocumentMoniker": "interface1\\ProfileForm.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\interface1\\interface1\\ProfileForm.cs [Design]",
-              "RelativeToolTip": "interface1\\ProfileForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T22:06:02.184Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainPage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\interface1\\interface1\\MainPage.cs",
-              "RelativeDocumentMoniker": "interface1\\MainPage.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\interface1\\interface1\\MainPage.cs [Design]",
-              "RelativeToolTip": "interface1\\MainPage.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T13:33:28.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProfileForm.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\interface1\\interface1\\ProfileForm.cs",
-              "RelativeDocumentMoniker": "interface1\\ProfileForm.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\interface1\\interface1\\ProfileForm.cs",
-              "RelativeToolTip": "interface1\\ProfileForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T10:00:28.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SignIn.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\interface1\\interface1\\SignIn.cs",
-              "RelativeDocumentMoniker": "interface1\\SignIn.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\interface1\\interface1\\SignIn.cs",
-              "RelativeToolTip": "interface1\\SignIn.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwAUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T21:21:46.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SignUp.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\interface1\\interface1\\SignUp.cs",
-              "RelativeDocumentMoniker": "interface1\\SignUp.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\interface1\\interface1\\SignUp.cs",
-              "RelativeToolTip": "interface1\\SignUp.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAqwCYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T18:00:10.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SignUp.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\interface1\\interface1\\SignUp.cs",
-              "RelativeDocumentMoniker": "interface1\\SignUp.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\interface1\\interface1\\SignUp.cs [Design]",
-              "RelativeToolTip": "interface1\\SignUp.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T17:55:10.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SignIn.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\interface1\\interface1\\SignIn.cs",
-              "RelativeDocumentMoniker": "interface1\\SignIn.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\interface1\\interface1\\SignIn.cs [Design]",
-              "RelativeToolTip": "interface1\\SignIn.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T21:18:36.157Z"
             }
           ]
         }

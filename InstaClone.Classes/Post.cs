@@ -6,18 +6,15 @@ using System.Threading.Tasks;
 
 namespace InstaClone.Classes
 {
-    public class Post{
-        public int PostId { get; set; }
+    public class Post : Sharing{
         public string Content { get; set; }
         public string Title { get; set; }
-        public int CountOfLike { get; set; }
         
-        public Post(int postId, string content, string title, int countOfLike) 
+        public Post(ulong id, User author, string date, int countOfLike, string content, string title) 
+            : base(id, author, date, countOfLike)
         {
-            PostId = postId;
             Content = content;
             Title = title;
-            CountOfLike = countOfLike;
         }
     }
 }
